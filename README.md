@@ -1,9 +1,9 @@
 
-> Open deze pagina op [https://21396-lestreek.github.io/sensorscript_koffieauto/](https://21396-lestreek.github.io/sensorscript_koffieauto/)
+> Open this page at [https://21396-lestreek.github.io/sensorscript_koffieauto/](https://21396-lestreek.github.io/sensorscript_koffieauto/)
 
-## Gebruiken als extensie
+## Use as extension
 
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
+This repository can be added as **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klik op **Nieuw project**
